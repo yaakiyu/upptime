@@ -4,12 +4,12 @@
     "url": "https://disworld.yaakiyu.repl.co/",
     "icon": "https://favicons.githubusercontent.com/disworld.yaakiyu.repl.co",
     "slug": "disworld",
-    "status": "up",
-    "uptime": "7.96%",
-    "uptimeDay": "7.96%",
-    "uptimeWeek": "7.96%",
-    "uptimeMonth": "7.96%",
-    "uptimeYear": "7.96%",
+    "status": "down",
+    "uptime": "72.37%",
+    "uptimeDay": "72.37%",
+    "uptimeWeek": "72.37%",
+    "uptimeMonth": "72.37%",
+    "uptimeYear": "72.37%",
     "time": 520,
     "timeDay": 520,
     "timeWeek": 520,
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/yaden-bot.yaakiyu.repl.co",
     "slug": "yaden-bot",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2022-09-10": 19
+      "2022-09-10": 68
     }
   }
 ]
