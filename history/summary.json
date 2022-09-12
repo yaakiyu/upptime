@@ -4,19 +4,19 @@
     "url": "https://disworld.yaakiyu.repl.co/",
     "icon": "https://favicons.githubusercontent.com/disworld.yaakiyu.repl.co",
     "slug": "disworld",
-    "status": "down",
-    "uptime": "35.40%",
+    "status": "up",
+    "uptime": "35.15%",
     "uptimeDay": "66.59%",
-    "uptimeWeek": "35.40%",
-    "uptimeMonth": "35.40%",
-    "uptimeYear": "35.40%",
-    "time": 359,
-    "timeDay": 336,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "uptimeWeek": "35.15%",
+    "uptimeMonth": "35.15%",
+    "uptimeYear": "35.15%",
+    "time": 624,
+    "timeDay": 637,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2022-09-12": 29,
+      "2022-09-12": 49,
       "2022-09-11": 984,
       "2022-09-10": 829
     }
@@ -38,7 +38,7 @@
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2022-09-12": 531,
+      "2022-09-12": 551,
       "2022-09-11": 1440,
       "2022-09-10": 878
     }
