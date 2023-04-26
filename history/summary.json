@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sakura-bot.net.ico",
     "slug": "sakura-home",
     "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
-    "time": 713,
-    "timeDay": 713,
-    "timeWeek": 713,
-    "timeMonth": 713,
-    "timeYear": 713,
-    "dailyMinutesDown": {
-      "2023-04-25": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 636,
+    "timeDay": 736,
+    "timeWeek": 636,
+    "timeMonth": 636,
+    "timeYear": 636,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RT Home",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-25": 529,
+      "2023-04-26": 71,
+      "2023-04-25": 1440,
       "2023-04-24": 37
     }
   }
