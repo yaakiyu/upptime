@@ -4,19 +4,19 @@
     "url": "https://sakura-bot.net/",
     "icon": "https://icons.duckduckgo.com/ip3/sakura-bot.net.ico",
     "slug": "sakura-home",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 559,
-    "timeDay": 694,
-    "timeWeek": 525,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 890,
+    "timeDay": 1819,
+    "timeWeek": 992,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2023-05-03": 9
+      "2023-05-03": 0
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-05-03": 404,
+      "2023-05-03": 1019,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
