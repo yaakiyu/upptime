@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sakura-bot.net.ico",
     "slug": "sakura-home",
     "status": "up",
-    "uptime": "37.99%",
+    "uptime": "38.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.80%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "37.97%",
-    "time": 1320,
-    "timeDay": 454,
-    "timeWeek": 1267,
-    "timeMonth": 1521,
-    "timeYear": 1320,
+    "time": 1317,
+    "timeDay": 461,
+    "timeWeek": 1272,
+    "timeMonth": 1516,
+    "timeYear": 1321,
     "dailyMinutesDown": {
       "2024-04-21": 222,
       "2024-04-15": 16,
@@ -277,15 +277,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt.rext.dev.ico",
     "slug": "rt-home",
     "status": "up",
-    "uptime": "61.96%",
+    "uptime": "62.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.95%",
+    "uptimeYear": "61.97%",
     "time": 521,
-    "timeDay": 753,
-    "timeWeek": 740,
-    "timeMonth": 788,
+    "timeDay": 759,
+    "timeWeek": 742,
+    "timeMonth": 783,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2024-03-09": 42,
@@ -428,8 +428,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-27": 1440,
-      "2023-04-26": 1440
+      "2023-04-27": 1440
     }
   }
 ]
