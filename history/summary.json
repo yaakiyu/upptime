@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rt.neody.land.ico",
     "slug": "rt-home",
     "status": "up",
-    "uptime": "58.59%",
+    "uptime": "58.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.30%",
+    "uptimeWeek": "39.65%",
     "uptimeMonth": "17.43%",
-    "uptimeYear": "63.31%",
-    "time": 499,
-    "timeDay": 370,
-    "timeWeek": 275,
-    "timeMonth": 245,
+    "uptimeYear": "63.58%",
+    "time": 498,
+    "timeDay": 159,
+    "timeWeek": 255,
+    "timeMonth": 223,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2024-05-23": 395,
@@ -151,8 +151,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   }
 ]
