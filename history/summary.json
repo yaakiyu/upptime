@@ -4,8 +4,8 @@
     "url": "https://rt.neody.land/",
     "icon": "https://icons.duckduckgo.com/ip3/rt.neody.land.ico",
     "slug": "rt-home",
-    "status": "up",
-    "uptime": "68.60%",
+    "status": "down",
+    "uptime": "68.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.95%",
     "uptimeMonth": "98.25%",
@@ -16,6 +16,7 @@
     "timeMonth": 2822,
     "timeYear": 950,
     "dailyMinutesDown": {
+      "2024-09-30": 0,
       "2024-09-26": 175,
       "2024-09-25": 133,
       "2024-09-19": 73,
