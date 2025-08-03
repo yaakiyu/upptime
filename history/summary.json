@@ -4,19 +4,19 @@
     "url": "https://rt.neody.land/",
     "icon": "https://icons.duckduckgo.com/ip3/rt.neody.land.ico",
     "slug": "rt-home",
-    "status": "down",
+    "status": "up",
     "uptime": "96.88%",
-    "uptimeDay": "60.61%",
-    "uptimeWeek": "73.35%",
-    "uptimeMonth": "93.87%",
+    "uptimeDay": "59.24%",
+    "uptimeWeek": "73.15%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "92.90%",
     "time": 1132,
-    "timeDay": 903,
-    "timeWeek": 871,
-    "timeMonth": 887,
-    "timeYear": 1268,
+    "timeDay": 893,
+    "timeWeek": 870,
+    "timeMonth": 886,
+    "timeYear": 1267,
     "dailyMinutesDown": {
-      "2025-08-03": 324,
+      "2025-08-03": 344,
       "2025-08-02": 467,
       "2025-08-01": 334,
       "2025-07-31": 262,
@@ -76,8 +76,7 @@
       "2024-11-09": 75,
       "2024-11-08": 68,
       "2024-10-25": 18,
-      "2024-10-24": 19,
-      "2024-10-23": 18
+      "2024-10-24": 19
     }
   }
 ]
