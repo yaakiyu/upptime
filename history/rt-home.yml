@@ -1,7 +1,7 @@
 url: https://rt.neody.land/
-status: up
-code: 200
-responseTime: 1011
-lastUpdated: 2025-08-08T23:57:32.295Z
+status: down
+code: 502
+responseTime: 962
+lastUpdated: 2025-08-09T03:12:48.115Z
 startTime: 2023-04-24T23:22:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
